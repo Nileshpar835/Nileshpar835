@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nileshpar835&show_icons=true&theme=tokyonight" height="170"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FNileshpar835)](https://git.io/streak-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshpar835&layout=compact&theme=tokyonight" height="170"/>
 
