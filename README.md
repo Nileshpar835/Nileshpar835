@@ -1,124 +1,159 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nilesh%20Parmar&fontSize=40&fontColor=ffffff" />
-</p>
-
-<div align="center">
-
-# ✨ HI THERE, I'M NILESH PARMAR 👋
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Developer;Backend+Developer;GenAI+Enthusiast" />
-
-</div>
-
----
-
-## 🧠 AI & ENGINEERING FOCUS
-
-💡 Aspiring **Software Developer & Python Developer** with strong skills in backend development and AI-based applications.
-
-### Current Focus 🚀
-
-- Artificial Intelligence & Machine Learning  
-- Generative AI  
-- LangChain & RAG Systems  
-- Backend Development  
-- Clean Code Practices  
-
-🎯 Goal: Contribute to real-world AI applications and automation workflows.
-
----
-
-## 💻 TECH STACK & TOOLS
-
-### 🔹 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-### 🔹 Backend
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
-### 🔹 AI / ML
-![AI](https://img.shields.io/badge/AI-black?style=for-the-badge)
-![MachineLearning](https://img.shields.io/badge/MachineLearning-blue?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-purple?style=for-the-badge)
-
-### 🔹 Databases
-
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-### 🔹 Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📊 GITHUB STATS
+<h1 align="center">🚀 Nilesh Parmar</h1>
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FNileshpar835)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshpar835&layout=compact&theme=tokyonight" height="170"/>
-
+AI/ML Engineer • Python Developer • GenAI Engineer • Backend Developer
 </p>
 
----
-
-## 🚀 FEATURED PROJECTS
-
-### 🔹 TrackIT – AI Finance Platform
-
-AI-powered personal finance platform with:
-
-✔ Data visualization  
-✔ Natural language queries  
-✔ AI analytics  
-
----
-
-### 🔹 College Exam Portal
-
-Online examination system with:
-
-✔ Role-based access  
-✔ Auto grading  
-✔ Reports & Analytics  
-
----
-
-### 🔹 Event Management System
-
-Web application with:
-
-✔ Event booking  
-✔ Venue management  
-✔ Notifications  
-
----
-
-## 📫 CONNECT WITH ME
-
-📧 Email  
-**nileshapr835@gmail.com**
-
-💼 LinkedIn  
-https://linkedin.com/in/YOUR_LINK
-
-💻 GitHub  
-https://github.com/YOUR_USERNAME
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+Backend+Developer;GenAI+Engineer;RAG+Systems+Builder;Clean+Code+Advocate" />
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nileshpar835&color=blue"/>
+<a href="https://linkedin.com/in/nileshpar835">
+<img src="https://img.shields.io/badge/LinkedIn-Nilesh%20Parmar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nileshapr835@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/nileshpar835">
+<img src="https://img.shields.io/badge/GitHub-Nileshpar835-black?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
+
+---
+
+# 🧠 About Me
+
+✨ AI Engineer focused on building **real-world AI solutions**  
+⚡ Specialized in **LLMs, RAG Systems & AI Agents**  
+🚀 Strong backend architecture using **FastAPI & Python**  
+🧠 Passionate about **scalable AI automation**
+
+---
+
+# 🎯 Current Focus
+
+✔ LangChain & LLM Apps  
+✔ AI Agents  
+✔ RAG Pipelines  
+✔ Vector Databases  
+✔ Production AI Systems
+
+---
+
+# ⚙ Tech Stack
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Systems-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VectorDB-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+### ⚡ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django" />
+
+</p>
+
+---
+
+### 🛠 Tools & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
+
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nileshpar835&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=Nileshpar835&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧪 Featured Work
+
+### 🤖 AI Agent Systems
+Multi-agent automation workflows using LangChain.
+
+### 🔍 RAG Search Engine
+Enterprise semantic search with Vector DB.
+
+### ⚡ FastAPI Systems
+High-performance async backend APIs.
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nileshpar835&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🧠 Engineering Philosophy
+
+✔ Clean Code  
+✔ Modular Design  
+✔ Scalable Architecture  
+✔ Documentation First
+
+---
+
+# ⭐ Support
+
+<p align="center">
+
+If you like my work consider giving a ⭐
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/m-p-p-c/m-p-p-c/master/assets/point-down.gif" width="40"/>
+
+</p>
+
+---
